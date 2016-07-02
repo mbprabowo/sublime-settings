@@ -2,7 +2,6 @@
     "always_show_minimap_viewport": true,
     "bold_folder_labels": false,
     "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-    "theme": "Material-Theme.sublime-theme",
     "font_face": "Roboto Mono",
     "font_options":
     [
@@ -19,11 +18,14 @@
         "draw_normal",
         "draw_active"
     ],
+    "line_numbers": false,
     "line_padding_bottom": 3,
     "line_padding_top": 3,
+    "margin": 0,
     "material_theme_accent_yellow": true,
     "material_theme_bold_tab": false,
     "overlay_scroll_bars": "enabled",
     "tab_size": 4,
+    "theme": "Material-Theme-Darker.sublime-theme",
     "translate_tabs_to_spaces": true
 }
