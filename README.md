@@ -6,7 +6,7 @@ This repository contains all packages, snippets, and preferences for my sublime 
 
 | Preference | Name
 | --- | ---
-| Font | [Roboto Mono (https://github.com/google/fonts/tree/master/apache/robotomono)
+| Font | [Roboto Mono](https://github.com/google/fonts/tree/master/apache/robotomono)
 | Theme | [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
 
 ### Packages
@@ -22,10 +22,10 @@ This repository contains all packages, snippets, and preferences for my sublime 
 ### Snippet
 
 * Javascript alert
-```
+```javascript
 alert('content');
 ```
 * PHP vardump
-```
+```php
 vardump('content');
 ```
